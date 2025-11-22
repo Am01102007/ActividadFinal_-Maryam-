@@ -1,2 +1,14 @@
-# ActividadFinal_-Maryam-
-Sistema de Registro de Productos en Inventario # Crear una aplicación modular que permita gestionar el inventario básico de una tienda pequeña. #Funcionalidades requeridas:  #1.Registrar productos. #2.Mostrar todos los productos registrados. #3.Buscar producto por nombre. #4.Calcular valor total del inventario. #5.Validar entradas y salidas.
+Sistema de Registro de Productos en Inventario
+
+Descripción
+
+Aplicación de consola desarrollada en Python que permite gestionar el inventario básico de una tienda pequeña. El sistema facilita el registro, consulta y cálculo del valor total de productos almacenados.
+
+## ✨Funcionalidades
+
+1. **Registrar productos** - Captura nombre, precio y cantidad con validación robusta
+2. **Mostrar productos** - Lista todos los productos registrados en el inventario
+3. **Buscar productos** - Permite buscar productos por coincidencia parcial de nombre
+4. **Calcular valor total** - Calcula el valor total del inventario (precio × cantidad)
+5. **Validación completa** - Manejo de errores para las entradas del usuario
+
